@@ -1,2 +1,1 @@
-# NewGame-Discord-BOT
 Arşiv
